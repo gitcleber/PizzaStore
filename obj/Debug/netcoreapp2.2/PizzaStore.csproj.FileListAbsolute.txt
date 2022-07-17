@@ -1,0 +1,14 @@
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\bin\Debug\netcoreapp2.2\PizzaStore.deps.json
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\bin\Debug\netcoreapp2.2\PizzaStore.runtimeconfig.json
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\bin\Debug\netcoreapp2.2\PizzaStore.runtimeconfig.dev.json
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\bin\Debug\netcoreapp2.2\PizzaStore.dll
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\bin\Debug\netcoreapp2.2\PizzaStore.pdb
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\obj\Debug\netcoreapp2.2\PizzaStore.csprojAssemblyReference.cache
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\obj\Debug\netcoreapp2.2\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\obj\Debug\netcoreapp2.2\PizzaStore.RazorAssemblyInfo.cache
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\obj\Debug\netcoreapp2.2\PizzaStore.RazorAssemblyInfo.cs
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\obj\Debug\netcoreapp2.2\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\obj\Debug\netcoreapp2.2\PizzaStore.AssemblyInfo.cs
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\obj\Debug\netcoreapp2.2\PizzaStore.RazorTargetAssemblyInfo.cache
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\obj\Debug\netcoreapp2.2\PizzaStore.dll
+C:\Users\clebsant\Downloads\VSCODE\aspnetcore2\PizzaStore\obj\Debug\netcoreapp2.2\PizzaStore.pdb
